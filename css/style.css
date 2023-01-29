@@ -1156,7 +1156,7 @@ svg path {
   }
 
   .item {
-    height: auto;
+    height: 100%; /*--ИСПРАВИЛ AUTO НА 100%--*/
     padding-bottom: 70%;
   }
 }
